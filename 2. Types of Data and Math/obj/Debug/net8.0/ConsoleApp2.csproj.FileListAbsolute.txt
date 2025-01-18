@@ -1,0 +1,14 @@
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Courses\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+D:\Courses\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\Courses\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\Courses\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+D:\Courses\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\Courses\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
