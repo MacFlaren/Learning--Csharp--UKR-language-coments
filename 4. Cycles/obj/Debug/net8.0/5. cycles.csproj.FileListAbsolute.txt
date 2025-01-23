@@ -1,0 +1,15 @@
+D:\Courses\4. Cycles\bin\Debug\net8.0\5. cycles.exe
+D:\Courses\4. Cycles\bin\Debug\net8.0\5. cycles.deps.json
+D:\Courses\4. Cycles\bin\Debug\net8.0\5. cycles.runtimeconfig.json
+D:\Courses\4. Cycles\bin\Debug\net8.0\5. cycles.dll
+D:\Courses\4. Cycles\bin\Debug\net8.0\5. cycles.pdb
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.AssemblyInfoInputs.cache
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.AssemblyInfo.cs
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.csproj.CoreCompileInputs.cache
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.sourcelink.json
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.dll
+D:\Courses\4. Cycles\obj\Debug\net8.0\refint\5. cycles.dll
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.pdb
+D:\Courses\4. Cycles\obj\Debug\net8.0\5. cycles.genruntimeconfig.cache
+D:\Courses\4. Cycles\obj\Debug\net8.0\ref\5. cycles.dll
