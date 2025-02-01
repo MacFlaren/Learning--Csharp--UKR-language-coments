@@ -1,0 +1,15 @@
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.AssemblyInfoInputs.cache
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.AssemblyInfo.cs
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.csproj.CoreCompileInputs.cache
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.sourcelink.json
+D:\Courses\5. Data_arrays\bin\Debug\net8.0\5. Data_arrays.exe
+D:\Courses\5. Data_arrays\bin\Debug\net8.0\5. Data_arrays.deps.json
+D:\Courses\5. Data_arrays\bin\Debug\net8.0\5. Data_arrays.runtimeconfig.json
+D:\Courses\5. Data_arrays\bin\Debug\net8.0\5. Data_arrays.dll
+D:\Courses\5. Data_arrays\bin\Debug\net8.0\5. Data_arrays.pdb
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.dll
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\refint\5. Data_arrays.dll
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.pdb
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\5. Data_arrays.genruntimeconfig.cache
+D:\Courses\5. Data_arrays\obj\Debug\net8.0\ref\5. Data_arrays.dll
