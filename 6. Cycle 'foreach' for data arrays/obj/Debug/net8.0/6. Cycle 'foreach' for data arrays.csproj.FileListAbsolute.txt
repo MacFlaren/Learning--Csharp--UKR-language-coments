@@ -1,0 +1,15 @@
+D:\Courses\6. Cycle 'foreach' for data arrays\bin\Debug\net8.0\6. Cycle 'foreach' for data arrays.exe
+D:\Courses\6. Cycle 'foreach' for data arrays\bin\Debug\net8.0\6. Cycle 'foreach' for data arrays.deps.json
+D:\Courses\6. Cycle 'foreach' for data arrays\bin\Debug\net8.0\6. Cycle 'foreach' for data arrays.runtimeconfig.json
+D:\Courses\6. Cycle 'foreach' for data arrays\bin\Debug\net8.0\6. Cycle 'foreach' for data arrays.dll
+D:\Courses\6. Cycle 'foreach' for data arrays\bin\Debug\net8.0\6. Cycle 'foreach' for data arrays.pdb
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.AssemblyInfoInputs.cache
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.AssemblyInfo.cs
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.csproj.CoreCompileInputs.cache
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.sourcelink.json
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.dll
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\refint\6. Cycle 'foreach' for data arrays.dll
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.pdb
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\6. Cycle 'foreach' for data arrays.genruntimeconfig.cache
+D:\Courses\6. Cycle 'foreach' for data arrays\obj\Debug\net8.0\ref\6. Cycle 'foreach' for data arrays.dll

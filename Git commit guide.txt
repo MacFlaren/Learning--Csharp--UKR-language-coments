@@ -1,4 +1,4 @@
 open console
 git add . // додаєм всі зміни
-git commit -M "comment" // підтвердження 
+git commit -m "comment" // підтвердження 
 git push origin master // відправлення на Git

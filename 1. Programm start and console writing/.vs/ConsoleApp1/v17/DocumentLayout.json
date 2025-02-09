@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Courses\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\Courses\\1. Programm start and console writing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D949790-5DF8-484E-844C-0B10A7298DCF}|ConsoleApp1.csproj|d:\\courses\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D949790-5DF8-484E-844C-0B10A7298DCF}|ConsoleApp1.csproj|d:\\courses\\1. programm start and console writing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D949790-5DF8-484E-844C-0B10A7298DCF}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Courses\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\Courses\\1. Programm start and console writing\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Courses\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Courses\\1. Programm start and console writing\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
